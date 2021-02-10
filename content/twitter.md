@@ -1,4 +1,0 @@
----
-aliases:
-    - twitter.com/lycangtv
----
