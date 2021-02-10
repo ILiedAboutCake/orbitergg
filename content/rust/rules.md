@@ -1,6 +1,6 @@
 ---
-title: Server Information
-description: Server Information
+title: Server Rules
+description: Server Rules
 ---
 
 
