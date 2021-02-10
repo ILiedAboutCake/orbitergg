@@ -1,4 +1,4 @@
 ---
 title: Orbiter.gg
-description: Nice Meme!
+description: All things serve the meme
 ---
