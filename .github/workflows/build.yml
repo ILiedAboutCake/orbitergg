@@ -17,10 +17,6 @@ jobs:
         with:
           repository: your-identity/hugo-theme-dimension
           path: themes/dimension
-      - name: Inject theme toml
-        run: |
-          rm themes/dimension/theme.toml
-          cp theme-inject.toml themes/dimension/theme.toml
       - name: Install Hugo
         run: |
           HUGO_DOWNLOAD=hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
