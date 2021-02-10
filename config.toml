@@ -1,5 +1,4 @@
 baseURL = "http://orbiter.gg.s3-website-us-east-1.amazonaws.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-
+title = "Orbiter.GG"
 theme = "dimension"
