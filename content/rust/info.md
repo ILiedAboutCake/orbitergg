@@ -1,6 +1,6 @@
 ---
-title: Server Information
-description: Server Information
+title: Server Info
+description: Server Info
 ---
 
 # SERVER INFORMATION
