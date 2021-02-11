@@ -3,11 +3,10 @@ title: Server Rules
 description: Server Rules
 ---
 
-
 # RULES:
 
 - Don't be a prick.
-- No slurs, sexism, racism, etc.
+- No slurs, sexism, racism, homophobia, transphobia etc.
   - Report misconduct in the rust-support discord channel with screen shots/clips.
 - You Must Join the Discord
 - Strict Teams of 8:
