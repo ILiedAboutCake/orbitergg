@@ -1,4 +1,4 @@
 ---
 title: Rust
-description: The Video Game
+description: The Video Gaem
 ---
