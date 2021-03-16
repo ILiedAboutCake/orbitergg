@@ -1,6 +1,6 @@
 ---
-title: Cooking Schedule
-description: Cooking Schedule
+title: Cooking Schedule 
+description: Cooking Schedule 
 ---
 
 ### WATCH LIVE AND COOK ALONG ON [TWITCH](https://www.twitch.tv/lycangtv)
